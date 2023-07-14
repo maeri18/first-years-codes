@@ -1,0 +1,7 @@
+#include<stdio.h>
+#include"exo1.h"
+#include"exo2.h"
+int main()
+{
+ return 0;
+}

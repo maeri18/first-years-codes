@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1652695995 source:d:\coding\module1\module1.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1653853498 source:d:\coding\module1\module 2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"module1.h"
+
+1653853829 d:\coding\module1\module1.h
+
+1653854303 source:d:\coding\module1\module 3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"module1.h"
+
+1653902984 source:d:\coding\module1\module 4.c
+	<stdio.h>
+	<string.h>
+	"module1.h"
+	"module_2.h"
+
+1652693988 d:\coding\module1\module_2.h
+
+1653854548 source:d:\coding\module1\main tp.c
+	<stdio.h>
+	"module1.h"
+	"module_2.h"
+	"module3.h"
+	"module4.h"
+
+1652696238 d:\coding\module1\module3.h
+
+1652691330 d:\coding\module1\module4.h
+

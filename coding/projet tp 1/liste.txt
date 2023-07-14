@@ -1,0 +1,11 @@
+12ty	todoroki	shoto	16	2	heroique	340	900	800	600	500
+21yh	suguru		geto	27	4	exorcisme	0	0	0	0	0
+th90	aizen		sosuke	37	4	shinigami	89	897	0	56	78
+76ty	kibutsuji	muzan	1000	68	onii		450	899	009	678	998	
+67er	kingOfAnts	meruem	0	1	nenUser		900	0	998	7	0	
+
+12ty5tg	guido	shoto	16	2	hist	340	900	800	600	500	
+th90yu8	Amega	sosuke	37	4	geo	89	897	0	56	78	
+76tyj7r	Djinton	muzan	16	3	info	450	899	9	678	998	
+67eru7j	Tuemi	meruem	15	1	math	900	0	998	7	0	
+

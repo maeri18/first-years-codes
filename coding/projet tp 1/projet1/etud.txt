@@ -1,0 +1,2 @@
+111	etudiant1	fgdd	3	4	trr	100	100	100	100	100	
+222	etudiant2	ff	4	4	rty	200	200	0	200	200	

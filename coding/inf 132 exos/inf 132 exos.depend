@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1652689031 source:d:\coding\inf 132 exos\exo tab.c
+
+1652689785 source:d:\coding\inf 132 exos\exo matrices.c
+	<stdio.h>
+
+1652689939 source:d:\coding\inf 132 exos\main.c
+	<stdio.h>
+	"exo1.h"
+	"exo2.h"
+
+1652689121 d:\coding\inf 132 exos\exo1.h
+
+1652689835 d:\coding\inf 132 exos\exo2.h
+
